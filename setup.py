@@ -53,7 +53,7 @@ setup(
     name='openstep_parser_baxievski',
     author='Ignacio Calderon',
     description='OpenStep plist reader into python objects',
-    url="http://github.com/axievski/openstep-parser",
+    url="http://github.com/baxievski/openstep-parser",
     version=find_version("openstep_parser", "__init__.py"),
     license='BSD License',
     packages=find_packages(exclude=['tests']),
